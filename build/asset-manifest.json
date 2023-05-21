@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lieferando-clone/static/css/main.e432f86b.css",
+    "main.js": "/lieferando-clone/static/js/main.5d91ab38.js",
+    "static/media/pizza.jpg": "/lieferando-clone/static/media/pizza.cab48c6c158393bb29c5.jpg",
+    "index.html": "/lieferando-clone/index.html",
+    "main.e432f86b.css.map": "/lieferando-clone/static/css/main.e432f86b.css.map",
+    "main.5d91ab38.js.map": "/lieferando-clone/static/js/main.5d91ab38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e432f86b.css",
+    "static/js/main.5d91ab38.js"
+  ]
+}
