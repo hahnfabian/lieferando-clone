@@ -1,0 +1,112 @@
+[
+    {
+      "name": "Restaurant A",
+      "dishes":[
+        {
+          "name": "Spaghetti Carbonara",
+          "description": "Spaghetti with eggs, bacon, and parmesan cheese.",
+          "price": 1437
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "description": "Chicken cooked in a creamy tomato sauce with spices.",
+          "price": 1786
+        },
+        {
+          "name": "Pad Thai",
+          "description": "Stir-fried rice noodles with vegetables, peanuts, and shrimp or chicken.",
+          "price": 1197
+        },
+        {
+          "name": "Chocolate Cake",
+          "description": "A rich and decadent chocolate cake with fudge icing.",
+          "price": 1574
+        },
+        {
+          "name": "Apple Pie",
+          "description": "A classic pie made with fresh apples and warm spices.",
+          "price": 1125
+        },
+        {
+          "name": "Tiramisu",
+          "description": "An Italian dessert made with ladyfingers, coffee, and mascarpone cheese.",
+          "price": 983
+        },
+        {
+          "name": "BLT",
+          "description": "A classic sandwich made with bacon, lettuce, and tomato on toasted bread.",
+          "price": 1684
+        },
+        {
+          "name": "Grilled Cheese",
+          "description": "A simple but delicious sandwich made with melted cheese on bread.",
+          "price": 1143
+        },
+        {
+          "name": "Reuben",
+          "description": "A hearty sandwich made with corned beef, sauerkraut, and Russian dressing on rye bread.",
+          "price": 770
+        },
+        {
+          "name": "Margherita Pizza",
+          "description": "A classic Italian pizza made with tomato sauce, mozzarella cheese, and fresh basil.",
+          "price": 1500
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "description": "A popular Indian dish made with marinated chicken in a creamy tomato sauce.",
+          "price": 1780
+        },
+        {
+          "name": "Pho",
+          "description": "A Vietnamese noodle soup made with beef or chicken broth, rice noodles, and various herbs and spices.",
+          "price": 642
+        },
+        {
+          "name": "Sushi",
+          "description": "A Japanese dish made with vinegared rice and various seafood, vegetables, and other ingredients.",
+          "price": 1505
+        }
+      ],
+      "description": "A popular restaurant serving a variety of cuisines.",
+      "rating": 4.5
+    },
+    {
+      "name": "Restaurant B",
+      "dishes": [
+        {
+          "name": "Chocolate Cake",
+          "description": "A rich and decadent chocolate cake with fudge icing."
+        },
+        {
+          "name": "Apple Pie",
+          "description": "A classic pie made with fresh apples and warm spices."
+        },
+        {
+          "name": "Tiramisu",
+          "description": "An Italian dessert made with ladyfingers, coffee, and mascarpone cheese."
+        }
+      ],
+      "description": "A cozy cafe with a selection of homemade desserts.",
+      "rating": 4
+    },
+    {
+      "name": "Restaurant C",
+      "dishes": [
+        {
+          "name": "BLT",
+          "description": "A classic sandwich made with bacon, lettuce, and tomato on toasted bread."
+        },
+        {
+          "name": "Grilled Cheese",
+          "description": "A simple but delicious sandwich made with melted cheese on bread."
+        },
+        {
+          "name": "Reuben",
+          "description": "A hearty sandwich made with corned beef, sauerkraut, and Russian dressing on rye bread."
+        }
+      ],
+      "description": "A fine dining restaurant specializing in seafood.",
+      "rating": 4.8
+    }
+  ]

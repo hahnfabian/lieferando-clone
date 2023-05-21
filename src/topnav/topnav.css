@@ -1,0 +1,20 @@
+.topnav-container {
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topnav-container > div {
+    text-align: center;
+    margin: 20px;
+    font-size: 2rem;
+    border-radius: 15px;
+    padding: 2px 8px 2px 8px;
+}
+
+.topnav-container > div:hover {
+    background-color: #acacac36;
+}
